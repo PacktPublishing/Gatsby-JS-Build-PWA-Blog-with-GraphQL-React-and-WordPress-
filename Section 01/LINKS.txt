@@ -1,0 +1,8 @@
+https://nodejs.org/en/
+
+https://git-scm.com/downloads
+
+https://code.visualstudio.com/
+
+https://www.npmjs.com/package/gatsby-cli
+

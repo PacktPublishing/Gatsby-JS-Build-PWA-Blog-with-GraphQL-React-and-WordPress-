@@ -1,0 +1,3 @@
+https://github.com/rori4/gatsby-tutorial/commit/18ef62a312c2c3d45aedc7d54e250a98ccf51889
+
+https://github.com/rori4/gatsby-tutorial/commit/8573ebca23840c018d0be799209a21257a70fd06

@@ -1,0 +1,3 @@
+https://www.gatsbyjs.org/docs/starters/
+
+https://www.gatsbyjs.org/starters/?v=2
